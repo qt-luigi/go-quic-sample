@@ -2,7 +2,7 @@
 
 ## 概要
 
-2021年3月28日(土)にGDG Shikoku主催で香川＆オンラインにて開催された
+2021年3月28日(日)にGDG Shikoku主催で香川＆オンラインにて開催された
 
 - [【e-とぴあ・かがわ春のオンラインフェス2021】QUIC スタート](https://gdgshikoku.connpass.com/event/207750/)
 - [QUICスタート - YouTube](https://www.youtube.com/watch?v=-GgVO3-TN98)
